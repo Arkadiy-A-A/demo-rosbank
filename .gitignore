@@ -1,0 +1,12 @@
+# Folder ignor
+.allure
+.idea
+target
+
+
+# Files ignor
+*.iml
+*.jar
+*.war
+*.log
+*.DS_Store
